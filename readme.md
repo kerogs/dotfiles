@@ -1,4 +1,4 @@
-## Usage :
+## Need
 - ZSH
     - OhMyZSH
     - powerlevel10k
