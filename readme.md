@@ -16,7 +16,7 @@ Feel free to use it as inspiration or suggest improvements! 🚀
 
 ### 📺 Monitors  
 - **Screen 1**: Asus 1920x1080 @ 60Hz (DVI)  
-- **Screen 2**: Packard Bell 1920x1080 @ 60Hz (HDMI)  
+- **Screen 2**: Packard Bell 1920x1080 @ 60Hz (VGA)  
 
 
 ## 🖥️ System
