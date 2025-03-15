@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="Profiles Pictures" src="https://raw.githubusercontent.com/kerogs/kerogs/refs/heads/main/.ksinf/profile/profile_use.png" width="200" height="200"/>
-<h3> Kerogs' CS2 configuration 🛠️</h3>
+<h3> Kerogs' dotfiles 📁</h3>
 </div>
 
 # 🚀 Dotfiles - My EndeavourOS Setup
