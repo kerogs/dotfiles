@@ -1,3 +1,8 @@
+<div align="center">
+<img alt="Profiles Pictures" src="https://raw.githubusercontent.com/kerogs/kerogs/refs/heads/main/.ksinf/profile/profile_use.png" width="200" height="200"/>
+<h3> Kerogs' CS2 configuration 🛠️</h3>
+</div>
+
 # 🚀 Dotfiles - My EndeavourOS Setup
 This repository contains all my configuration files for an optimized and stylish EndeavourOS setup. ✨
 Feel free to use it as inspiration or suggest improvements! 🚀
@@ -34,7 +39,7 @@ You can find my wallpapers in the `wallpapers/` folder
 ## 📥 Install Configurations
 ```sh
 git clone https://github.com/kerogs/dotfiles/
-cd dotfiles
+cd dotfiles/configs
 cp -r ./configs/* ~/.config/
 ```
 
